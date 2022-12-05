@@ -1,0 +1,8 @@
+---
+train:
+  penalty:
+  - l1
+  - l2
+  C:
+    upper_bound: 1e-10
+    lower_bound: 1e10
